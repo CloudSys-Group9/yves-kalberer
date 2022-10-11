@@ -1,4 +1,4 @@
-import exoscale
+import exoscaleend
 
 exo = exoscale.Exoscale()
 zone = exo.compute.get_zone("ch-dk-2")
